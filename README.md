@@ -24,12 +24,6 @@ I’m currently focused on refining a portfolio of simple but effective backend 
 - SQLite, PostgreSQL, MongoDB  
 - Middleware and controller-layer patterns
 
-**Other**  
-- Git & GitHub  
-- Unit testing (Pytest, Jest)  
-- Docker (introductory knowledge)  
-- Systems thinking and simulation modeling
-
 ---
 
 ## Current Focus
