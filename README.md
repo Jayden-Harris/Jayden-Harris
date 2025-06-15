@@ -1,48 +1,62 @@
-# 👋 Hi there! I'm  Jayden
+# Jayden E.L. Harris
 
-🚀 **Full Stack Developer | iOS App Developer | Web Application Specialist**
-
----
-
-## 🧠 About Me
-
-I'm a passionate and results-driven developer with hands-on experience building robust, scalable applications across mobile and web platforms. Whether it's crafting elegant iOS apps or architecting full-stack web solutions, I love turning ideas into working products.
+Experimental Technologist | Backend Developer | Systems Simulation & API Design
 
 ---
 
-## 🛠 Tech Stack & Skills
+## About
 
-- **Languages & Frameworks:**  
-  `ReactJS`, `React Native`, `Node.js`, `Express.js`, `SQL`, `MongoDB`
+I specialize in building backend systems, secure APIs, and experimental architectures rooted in complex logic. My focus is on clean, testable code and practical implementation. I actively explore encoding systems, virtual machines, and simulations—ranging from CRUD API scaffolds to symbolic technologies like Collatz-based encoding engines.
 
-- **Mobile Development:**  
-  Native iOS (Swift) & Cross-platform (React Native)
-
-- **Backend:**  
-  RESTful APIs, Microservices architecture, Authentication, Server-side logic
-
-- **Database:**  
-  SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
-
-- **Other Skills:**  
-  Version Control (Git), API Integration, Deployment, Agile Practices
+I’m currently focused on refining a portfolio of simple but effective backend projects to support freelance and contract opportunities.
 
 ---
 
-## 📱 What I Build
+## Technical Proficiencies
 
-- Sleek and intuitive **iOS applications**
-- Responsive and dynamic **web applications**
-- Scalable **full-stack systems** with RESTful API architecture
-- Clean, modular, and well-documented codebases
+**Languages & Frameworks**  
+- Python, Node.js, JavaScript, C++  
+- FastAPI, Express, Flask (light usage), basic React
+
+**Backend Architecture**  
+- RESTful API design  
+- JWT authentication  
+- SQLite, PostgreSQL, MongoDB  
+- Middleware and controller-layer patterns
+
+**Other**  
+- Git & GitHub  
+- Unit testing (Pytest, Jest)  
+- Docker (introductory knowledge)  
+- Systems thinking and simulation modeling
 
 ---
 
-## 🌐 Connect with Me
+## Current Focus
 
-Feel free to explore my repos, star what you like, or drop a message if you want to collaborate!
-
+- Designing lightweight, production-ready CRUD APIs  
+- Implementing secure user auth with token-based access  
+- Developing Collatz Parity Encoding (CPE) for reversible binary encoding  
+- Building a Collatz-based virtual machine with a custom instruction set  
+- Creating simulation tools for nuclear reactor logic and virtual processors
 
 ---
 
-📌 *Always learning. Always building.*
+## Development Philosophy
+
+- Simplicity, modularity, and clarity in code  
+- No unnecessary dependencies  
+- Preference for handwritten logic over abstraction  
+- Understand the system, not just the syntax
+
+---
+
+## Contact
+
+View the repositories, read the code, or reach out if you have serious projects or collaboration opportunities. I'm not interested in hype—only in systems that work and ideas that challenge norms.
+
+---
+
+Jayden E.L. Harris  
+Conceptual Architect & Symbolic Technologist  
+"The greatest freedom in thought is to imagine there was never a box at all."
