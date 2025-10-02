@@ -1,56 +1,53 @@
 # Jayden E.L. Harris
 
-Experimental Technologist | Backend Developer | Systems Simulation & API Design
+Experimental Technologist | Computational Explorer | Conceptual Architect  
 
 ---
 
-## About
+## About Me
 
-I specialize in building backend systems, secure APIs, and experimental architectures rooted in complex logic. My focus is on clean, testable code and practical implementation. I actively explore encoding systems, virtual machines, and simulations—ranging from CRUD API scaffolds to symbolic technologies like Collatz-based encoding engines.
+I am fascinated by the **boundaries of computation, intelligence, and emergent behavior**. My work spans from designing **abstract virtual machines and assembly languages** to exploring **experimental AI systems** and probing the philosophical implications of **quantum mechanics**.  
 
-I’m currently focused on refining a portfolio of simple but effective backend projects to support freelance and contract opportunities.
+I approach technology as a **sandbox for thought experiments**—a way to model, simulate, and interrogate complex systems. Projects like the **Collatz Virtual Machine (CVM)** and **Project Atlas** are as much about exploring ideas as building functioning systems.  
 
----
-
-## Technical Proficiencies
-
-**Languages & Frameworks**  
-- Python, Node.js, JavaScript, C++  
-- FastAPI, Express, Flask (light usage), basic React
-
-**Backend Architecture**  
-- RESTful API design  
-- JWT authentication  
-- SQLite, PostgreSQL, MongoDB  
-- Middleware and controller-layer patterns
+My goal is to create **computational environments that are self-contained, expressive, and thought-provoking**, merging formal logic with emergent, unpredictable behavior.
 
 ---
 
-## Current Focus
+## Core Interests & Projects
 
-- Designing lightweight, production-ready CRUD APIs  
-- Implementing secure user auth with token-based access  
-- Developing Collatz Parity Encoding (CPE) for reversible binary encoding  
-- Building a Collatz-based virtual machine with a custom instruction set  
-- Creating simulation tools for nuclear reactor logic and virtual processors
+- **Collatz Virtual Machine (CVM)** – a symbolic, self-contained virtual machine with a custom assembly language (CAL), designed to explore computation, reversible encoding, and virtual OS environments.  
+- **Collatz Parity Encoding (CPE)** – a reversible binary encoding system for symbolic computation and experimental instruction sets.  
+- **Project Atlas** – an experimental AI “thought engine” exploring internal feedback loops, emergent reasoning, and agentive behavior in algorithmic systems.  
+- **Quantum-inspired computation & philosophy** – studying superposition, entanglement, and the role of observation in probabilistic outcomes; exploring the “Agentive Particle Interpretation” as a conceptual model for determinism, bias, and micro-level choice in quantum systems.  
+- **Virtual operating environments & emergent CLI systems** – simulating OS-level behavior in memory, abstracted from the host, for safe experimentation in symbolic computation.
 
 ---
 
-## Development Philosophy
+## Philosophy
 
-- Simplicity, modularity, and clarity in code  
-- No unnecessary dependencies  
-- Preference for handwritten logic over abstraction  
-- Understand the system, not just the syntax
+- I build **systems that think**, not just code that runs.  
+- **Emergence, bias, and feedback loops** are central to how I approach both AI and virtual computation.  
+- I treat computation as a **medium for thought experiments**, where architecture, instruction sets, and encoding are tools to explore higher-order ideas.  
+- I am less interested in conventional applications and more in **exploring the unknown**—the intersections of logic, probability, and agency.  
+
+---
+
+## What Drives Me
+
+- Understanding **why a specific outcome occurs** in complex systems.  
+- Exploring **emergent behavior** as computation across layers of abstraction.  
+- Creating environments where **experiments in AI, computation, and virtual systems** can be safely and rigorously executed.  
+- Bridging **philosophical inquiry and engineering**, using code as a lens to examine reality, choice, and deterministic vs. probabilistic systems.
 
 ---
 
 ## Contact
 
-View the repositories, read the code, or reach out if you have serious projects or collaboration opportunities. I'm not interested in hype—only in systems that work and ideas that challenge norms.
+I am open to discussion and collaboration on **deeply experimental computation, AI, and symbolic systems**. If you share an interest in **thinking machines, emergent virtual systems, or foundational questions in quantum-inspired computation**, check out my repositories or reach out.  
 
 ---
 
 Jayden E.L. Harris  
 Conceptual Architect & Symbolic Technologist  
-"The greatest freedom in thought is to imagine there was never a box at all."
+*"The greatest freedom in thought is to imagine there was never a box at all."*
