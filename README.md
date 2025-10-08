@@ -19,7 +19,7 @@ My goal is to create **computational environments that are self-contained, expre
 - **Collatz Virtual Machine (CVM)** – a symbolic, self-contained virtual machine with a custom assembly language (CAL), designed to explore computation, reversible encoding, and virtual OS environments.  
 - **Collatz Parity Encoding (CPE)** – a reversible binary encoding system for symbolic computation and experimental instruction sets.  
 - **Project Atlas** – an experimental AI “thought engine” exploring internal feedback loops, emergent reasoning, and agentive behavior in algorithmic systems.  
-- **Quantum-inspired computation & philosophy** – studying superposition, entanglement, and the role of observation in probabilistic outcomes; exploring the “Agentive Particle Interpretation” as a conceptual model for determinism, bias, and micro-level choice in quantum systems.  
+- **Quantum-inspired computation & philosophy** – Deferred Compuation Interpretation: my own interpretation of quantum mechanics relating to my simulation hypothesis of a compuational universe
 - **Virtual operating environments & emergent CLI systems** – simulating OS-level behavior in memory, abstracted from the host, for safe experimentation in symbolic computation.
 
 ---
