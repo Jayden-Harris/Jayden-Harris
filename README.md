@@ -50,4 +50,4 @@ I am open to discussion and collaboration on **deeply experimental computation, 
 
 Jayden E.L. Harris  
 Conceptual Architect & Symbolic Technologist  
-*"The greatest freedom in thought is to imagine there was never a box at all."*
+*"The greatest freedom in thought is not to think outside the box, but to think as though the box was never there"*
