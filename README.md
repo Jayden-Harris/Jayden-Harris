@@ -8,7 +8,7 @@ Experimental Technologist | Computational Explorer | Conceptual Architect
 
 I am fascinated by the **boundaries of computation, intelligence, and emergent behavior**. My work spans from designing **abstract virtual machines and assembly languages** to exploring **experimental AI systems** and probing the philosophical implications of **quantum mechanics**.  
 
-I approach technology as a **sandbox for thought experiments**—a way to model, simulate, and interrogate complex systems. Projects like the **Collatz Virtual Machine (CVM)** and **Project Atlas** are as much about exploring ideas as building functioning systems.  
+I approach technology as a **sandbox for thought experiments**—a way to model, simulate, and interrogate complex systems. Projects like the **Collatz Virtual Machine (CVM)** and **Project Aurion** are as much about exploring ideas as building functioning systems.  
 
 My goal is to create **computational environments that are self-contained, expressive, and thought-provoking**, merging formal logic with emergent, unpredictable behavior.
 
@@ -18,8 +18,8 @@ My goal is to create **computational environments that are self-contained, expre
 
 - **Collatz Virtual Machine (CVM)** – a symbolic, self-contained virtual machine with a custom assembly language (CAL), designed to explore computation, reversible encoding, and virtual OS environments.  
 - **Collatz Parity Encoding (CPE)** – a reversible binary encoding system for symbolic computation and experimental instruction sets.  
-- **Project Atlas** – an experimental AI “thought engine” exploring internal feedback loops, emergent reasoning, and agentive behavior in algorithmic systems.  
-- **Quantum-inspired computation & philosophy** – Deferred Compuation Interpretation: my own interpretation of quantum mechanics relating to my simulation hypothesis of a compuational universe
+- **Project Aurion** – an experimental AI “thought engine” exploring internal feedback loops, emergent reasoning, and agentive behavior in algorithmic systems.  
+- **Quantum-inspired computation & philosophy** – Exploring ways to incorperate quantum mechanics models into programatic architecture
 - **Virtual operating environments & emergent CLI systems** – simulating OS-level behavior in memory, abstracted from the host, for safe experimentation in symbolic computation.
 
 ---
